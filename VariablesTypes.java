@@ -28,6 +28,7 @@ package com.bridgelabz.basics;
 // Instance variable will have  one copy at the object level and this variable is not shared among the objects.
 // Within the same class or outside the class I can access the instance variable using the object.
 
+// I am trying to understand the concept of git gub
 
 public class VariablesTypes {
 
